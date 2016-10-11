@@ -1,3 +1,5 @@
+"use strict"
+
 describe('President', function() {
   let lyndonJohnson
   before(() => {
